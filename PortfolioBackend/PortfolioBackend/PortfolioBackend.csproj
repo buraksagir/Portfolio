@@ -39,6 +39,16 @@
       <_ContentIncludedByDefault Remove="Views\Home\Privacy.cshtml" />
       <_ContentIncludedByDefault Remove="Views\_ViewImports.cshtml" />
       <_ContentIncludedByDefault Remove="Views\_ViewStart.cshtml" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\AssetManifest.bin" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\AssetManifest.bin.json" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\AssetManifest.json" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\assets\fonts\josefin\JosefinSans-SemiBold.ttf" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\assets\fonts\static\PlaywriteNGModern-Regular.ttf" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\assets\profile.png" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\FontManifest.json" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\fonts\MaterialIcons-Regular.otf" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\NOTICES" />
+      <_ContentIncludedByDefault Remove="wwwroot\assets\shaders\ink_sparkle.frag" />
     </ItemGroup>
 
 </Project>

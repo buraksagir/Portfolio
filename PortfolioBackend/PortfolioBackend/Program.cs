@@ -11,5 +11,6 @@ if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
 }
+
 app.MapFallbackToFile("/index.html");
 app.Run();
