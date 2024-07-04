@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\burak\\RiderProjects\\PortfolioBackend\\PortfolioBackend\\PortfolioBackend.csproj": {}
+    "C:\\src\\projects\\Portfolio\\PortfolioBackend\\PortfolioBackend\\PortfolioBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\burak\\RiderProjects\\PortfolioBackend\\PortfolioBackend\\PortfolioBackend.csproj": {
+    "C:\\src\\projects\\Portfolio\\PortfolioBackend\\PortfolioBackend\\PortfolioBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burak\\RiderProjects\\PortfolioBackend\\PortfolioBackend\\PortfolioBackend.csproj",
+        "projectUniqueName": "C:\\src\\projects\\Portfolio\\PortfolioBackend\\PortfolioBackend\\PortfolioBackend.csproj",
         "projectName": "PortfolioBackend",
-        "projectPath": "C:\\Users\\burak\\RiderProjects\\PortfolioBackend\\PortfolioBackend\\PortfolioBackend.csproj",
+        "projectPath": "C:\\src\\projects\\Portfolio\\PortfolioBackend\\PortfolioBackend\\PortfolioBackend.csproj",
         "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burak\\RiderProjects\\PortfolioBackend\\PortfolioBackend\\obj\\",
+        "outputPath": "C:\\src\\projects\\Portfolio\\PortfolioBackend\\PortfolioBackend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config"

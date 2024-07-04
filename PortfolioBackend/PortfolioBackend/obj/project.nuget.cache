@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "quPlXffn6I6p7XT/VhN/aSFbcnLtZ/Ui/trNBYALAO9k8ZA9PWdw5cBLlLnPkb9LLdL+twrUs2sk5AwBhMpODA==",
+  "dgSpecHash": "m9aZy3ZQJclq4jGH8sK16ZhjyflTYDk0Bwa3K7b48Hmq6g6F54EYoKtBjp+sMwmWtQlxkthVA9Og1sblTxxFiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\burak\\RiderProjects\\PortfolioBackend\\PortfolioBackend\\PortfolioBackend.csproj",
+  "projectFilePath": "C:\\src\\projects\\Portfolio\\PortfolioBackend\\PortfolioBackend\\PortfolioBackend.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
