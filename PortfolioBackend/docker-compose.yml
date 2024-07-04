@@ -1,0 +1,6 @@
+﻿services:
+  portfoliobackend:
+    image: portfoliobackend
+    build:
+      context: .
+      dockerfile: PortfolioBackend/Dockerfile
