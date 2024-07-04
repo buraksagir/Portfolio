@@ -14,10 +14,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="wwwroot\web\" />
-    </ItemGroup>
-
-    <ItemGroup>
       <_ContentIncludedByDefault Remove="wwwroot\web\canvaskit\canvaskit.js" />
       <_ContentIncludedByDefault Remove="wwwroot\web\canvaskit\canvaskit.js.symbols" />
       <_ContentIncludedByDefault Remove="wwwroot\web\canvaskit\canvaskit.wasm" />

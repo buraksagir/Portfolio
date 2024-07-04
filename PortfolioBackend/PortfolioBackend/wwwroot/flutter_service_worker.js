@@ -3,11 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "5c5da88305fb4aae94660c517b5f3a6b",
-"assets/AssetManifest.bin.json": "25dda4179d3d197d439b65294656c4b9",
-"assets/AssetManifest.json": "c62495b6901a54f97f71901eebd9de63",
+const RESOURCES = {"assets/AssetManifest.bin": "6e8e77978fe31d27343243a44831b23a",
+"assets/AssetManifest.bin.json": "6a9ef363ca394f970aa5f8588d9ade33",
+"assets/AssetManifest.json": "1c3598d699cee2927b696e75a25b5086",
 "assets/assets/fonts/josefin/JosefinSans-SemiBold.ttf": "4d6fba7324c7c30b35e1190e93f38aac",
 "assets/assets/fonts/static/PlaywriteNGModern-Regular.ttf": "114a55d7d3bbbac0aaa717c9596e6cfd",
+"assets/assets/githublogo.png": "b111b1578d91ff08b2c529a6e6a8f41c",
+"assets/assets/linkedinlogo.png": "f08c524d147f46398cb54013ee7013ee",
 "assets/assets/profile.png": "3b80f388d0d97b67a03426c19a44edca",
 "assets/FontManifest.json": "5a107d8b88c5277289c5f8253d7f11fa",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
@@ -29,9 +31,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "5c5da88305fb4aae94660c517b5f3a6b
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9a31186ab7f2783c2b46ff15dc9959b5",
-"/": "9a31186ab7f2783c2b46ff15dc9959b5",
-"main.dart.js": "3fc623a206d1c932c9d56165e5748cd4",
+"index.html": "9bd427c7b3cbec985fc4e86d563211f0",
+"/": "9bd427c7b3cbec985fc4e86d563211f0",
+"main.dart.js": "e6f98bb22833623ec7bfc8e2a8f786af",
 "manifest.json": "1df9e38add6a2042fd2eb8b3ef619d72",
 "version.json": "deeb163e748fc3f2d0b0430e9be39224"};
 // The application shell files that are downloaded before a service worker can
